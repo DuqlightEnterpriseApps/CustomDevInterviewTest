@@ -1,0 +1,8 @@
+1) Fix build errors
+2) Fix all unit tests
+3) Create a logger that logs four different types of events: Critical, Major, Minor, Event.
+4) Create a view and add a button for each type of log event.  Each button should log the corresponding log entry type to both comma delimited and pipe delimited files.
+5) Display the logged events in the view.
+6) Add ability to sort logged events
+7) Add ability to filter logged events
+8) Add some default styles to enhance presentation
