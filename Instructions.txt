@@ -1,3 +1,5 @@
+Below are the general instructions for the Duquesne Light Co Custom Development Interview Test. Please feel free to take your time and use any and all resources that you would during your normal course of work. Nothing is off limits as the purpose of this test is to show us how you'll develop code for us. Nothing in the test in intended to trick, or trip you up, so if you have any questions please ask.
+
 1) Fix build errors
 2) Fix all unit tests
 3) Create a logger that logs four different types of events: Critical, Major, Minor, Event.
@@ -6,3 +8,5 @@
 6) Add ability to sort logged events
 7) Add ability to filter logged events
 8) Add some default styles to enhance presentation
+
+Once you have finished with code please generate a Git Bundle (https://git-scm.com/docs/git-bundle) of your code and upload it to the OneDrive folder you have been provided. Please do NOT commit your changes to the repository. The code written as part of this test may be reviewed as part of the next round of interviews, so feel free to provide any comments/documentation that will help explain why you made the choices you did. Thank you for your time and we look forward to seeing your code.
